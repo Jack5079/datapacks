@@ -1,0 +1,1 @@
+summon minecraft:armor_stand ~ ~10 ~ {CustomName:"{\"text\":\"explode\"}"}
